@@ -1,5 +1,5 @@
 body {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 30px;
   padding-left: 10px;
   padding-right: 10px;
@@ -11,10 +11,10 @@ body {
   margin-bottom: 20px;
 }
 
-.btn {
+.theme-showcase > p > .btn {
   margin: 20px;
 }
 
-.navbar {
+.theme-showcase .navbar {
   width: auto;
 }
